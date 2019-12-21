@@ -1,12 +1,14 @@
 ---
 layout: default
-title:  Page Two
+title: nothing
 ---
 
-# {{ page.title }}
+# This is a Page\!
 
+&nbsp;
 
-Another sample page.
+## Nothing to see here
 
-_Add your text here_
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](/uploads/77c6c82a23547902b2df718b47ec2563.jpg){: width="232" height="320"}
 
+&nbsp;
