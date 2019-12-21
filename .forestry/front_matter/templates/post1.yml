@@ -1,4 +1,13 @@
 ---
 label: post1
 hide_body: true
-fields: []
+fields:
+- name: label
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: label
+  description: nice thing
+  hidden: true
